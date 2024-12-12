@@ -1,0 +1,293 @@
+body {margin:0;
+padding:0}
+
+h2 {color:powderblue ; 
+font-size:25px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.Intro { color:rgb(0, 0, 0) ; 
+font-size:15px;
+font-family:Arial, Helvetica, sans-serif;}
+
+.Pikachu {margin-right: 20px;
+margin-top:20px;
+float:left;}
+
+.bulbassauro {margin-left:125px;
+margin-top: 20px;}
+
+h1 {color:whitesmoke;
+opacity:1;
+text-align: center;
+font-size:60px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+letter-spacing: 3px;
+margin-bottom: 0;}
+
+.Pichu {background-color:rgb(49, 137, 153);
+margin-top: 150px;
+padding-bottom: 30px;}
+
+.Pichu table {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 15px;
+padding-top: 15px;
+margin-left: 60px;
+text-align: center;
+color: white;}
+
+.Pichu td {height: 50px;
+padding-right: 40px;}
+
+.Pichu th {height: 50px;
+padding-right: 40px;}
+
+.Butterfree {margin-bottom:100px;}
+
+footer {background-color: rgb(74, 187, 207);
+padding: 20px;
+font-size: 13px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: left;
+display: block;}
+
+#Meowth {background-image:url(ImagemDeCapaSite.jpg);  
+opacity:1;}
+
+#Slowpoke {margin-left:150px;
+margin-right: 30px;
+margin-top: 30px;}
+
+#Eevee {font-size:15px;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 100px;
+letter-spacing:1px ;}
+
+.Raichu  {margin-top:100px;
+padding-top:50px;
+padding-bottom: 120px;
+padding-left: 60px;
+background-color:rgb(74, 187, 207);
+font-family: Arial, Helvetica, sans-serif;}
+
+.Raichu iframe {float:left;}
+
+.Chikorita {font-size:15px;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 30px;
+letter-spacing:1px;
+margin-left:50px;
+margin-bottom:30px;}
+
+.Snorlax {margin:0;
+padding:20px;
+margin-left: 20px;
+border:none;
+box-sizing: border-box;
+outline: none;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.Snorlax a  {list-style: none;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+color: white;
+text-transform: uppercase;
+text-decoration: none;
+transition:all .4s ease;}
+
+.Snorlax a:hover {background-color: rgb(74, 187, 207);
+padding: 5px;
+transition: background 0.5s;}
+
+.Snorlax ul li {display: block;
+padding-bottom: 8px;}
+
+.Snorlax ul li a {transition: background 0.5s;
+color:white;
+font-size: 15px;
+text-decoration: none;
+text-transform: uppercase;
+transition:all .4s ease;
+-webkit-transition:all .4s ease;}
+
+.Snorlax ul li a:hover{background-color: rgb(74, 187, 207);
+padding: 5px;}
+
+.Cadastro {background:white;
+margin:auto;
+width: 50%;
+max-width:400px;
+padding:30px;}
+  
+.Cadastro h2 {text-align: center;
+margin-bottom:20px;
+color:black;}
+  
+.Cadastro input{display:block;
+width:100%;
+background:white;
+border:none;
+margin:30px 0;
+padding:10px;
+border-bottom:1px solid rgba(0,0,0,0.2);
+outline:none;}
+  
+.Cadastro input[type="text"]:focus , [type="password"]:focus{border-bottom:2px solid black;} 
+  
+.Cadastro input[type="submit"]{background:rgb(74, 187, 207);
+opacity:0.7;
+border:none;
+border-radius:30px;
+color:white;
+font-size:1em; 
+cursor:pointer;}
+  
+.Cadastro input[type="submit"]:hover{opacity:1;
+transition:0.5s;}
+  
+.Cadastro input[type="submit"]:active{transform:scale(0.95);}
+  
+.Cadastro a{display:block;
+text-align:center;
+text-decoration:none;
+color:black;}
+  
+.Cadastro a:hover{text-decoration:underline;
+color: black;}
+
+#LeiaMais {font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size:17px;
+border-radius:10px;
+padding:10px;
+color:white;
+background-color:rgb(74, 187, 207);
+outline:none;
+border:none;
+display:inline-block;
+text-decoration: none;
+transition: .4s;
+margin-top: 10px;
+margin-left: 200px;
+margin-right: 140px;}
+    
+#LeiaMais:hover {color:white;
+background-color:rgb(49, 137, 153);}
+  
+.Cyndaquil {width: 220px;
+margin-top: 20px;
+position: relative;
+float:right}
+
+.Cyndaquil ul {list-style-type: none;
+display: block;
+margin: 0;
+padding: 0;
+position: absolute;
+width: 100%;
+overflow: hidden;
+border-radius:  8px 8px;
+z-index: 9;}
+
+.Cyndaquil a {display: block;
+padding:0 10px;
+text-decoration: none;
+line-height: 35px;
+color: white;
+background-color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;}
+
+.Cyndaquil li {height: 0;
+overflow: hidden;}
+
+.Cyndaquil li:first-child a {border-radius: 8px 8px 0 0;}
+
+.Cyndaquil li:last-child a {border-radius: 0 0 2px 2px;}
+
+.Cyndaquil li:first-child a::before {content: "";
+display: block;
+position: absolute;
+width: 0;
+height: 0;
+border-left: 10px solid transparent;
+border-right: 10px solid transparent;
+border-bottom: 12px solid black;
+margin: -9px 0 0 15px;}
+
+.Cyndaquil .Togepi       { background:transparent; color:black }
+
+.Cyndaquil .Togepi:hover { background:transparent; color:black }
+
+.Cyndaquil a:hover, .Cyndaquil.toggle > label:hover, .Cyndaquil.toggle > input:checked ~ label {background-color: rgb(49, 137, 153);
+color: white;}
+
+.Cyndaquil > a:hover::after, .Cyndaquil.toggle > label:hover::after, .dropdown.toggle > input:checked ~ label::after {border-top-color: #bdbdbd;}
+
+.Cyndaquil li:first-child a:hover::before {border-bottom-color: rgb(49, 137, 153);}
+
+.Cyndaquil:hover li, .Cyndaquil.toggle > input:checked ~ ul li {height: auto;}
+
+.Cyndaquil.hover:hover li:first-child, .Cyndaquil.toggle > input:checked ~ ul li:first-child {padding-top: 15px;}
+
+#palavra {color: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-transform: uppercase;
+font-size: 18px;
+font-style: normal;}
+
+#Titulo {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+#Cor {background-color: rgb(74, 187, 207);
+padding:40px;}
+
+#texto {padding: 30px;
+margin: 50px;
+font-size: 15px;
+letter-spacing: 0.8px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 1.8;}
+
+#frase {text-align: center;
+font-size:15px;
+font-family:Arial, Helvetica, sans-serif;
+letter-spacing: 0.8px;
+padding: 10px;}
+
+#aves {margin-left: 60px;
+margin-top: 60px;
+margin-right: 50px;
+float: left;}
+
+.texto-aves {font-family: Arial, Helvetica, sans-serif;
+display: block;
+font-size: 15px;
+padding: 20px;
+letter-spacing: 1px;
+margin-bottom: 100px;
+margin-top: 30px;
+margin-left: 20px;}
+
+iframe {margin-left:60px;
+margin-right: 60px;
+float: left;}
+
+#Araras {background-image: url(AraraCaninde.jpg);
+padding-bottom: 90px;}
+
+#foto-de-ave {padding-left: 500px;}
+
+.texto-outros {text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+letter-spacing: 1px;
+padding: 20px;}
+
+.texto-outros ul li {list-style: none;}
+
+#cacatuas {background-image: url(Cacatua.jpg);
+padding-bottom: 80px;}
+
+#papagaios {background-image: url(PapagaioVerde.jpg);
+padding-bottom: 90px;}
+
+.canario {background-image: url(CanarioBelga2.jpg);
+padding-bottom: 90px;}
